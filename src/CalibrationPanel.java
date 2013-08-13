@@ -25,6 +25,11 @@ import py4j.GatewayServer;
  */
 public class CalibrationPanel extends JPanel
 {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -4345447291654045894L;
+
 	PendaphoneGestures gest;
 	
 	// dimensions of calibration box
